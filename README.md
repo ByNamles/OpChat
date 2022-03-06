@@ -1,2 +1,2 @@
 # OpChat
-Chatting for OP!
+OpChat plugin for PocketMine-API 4!
