@@ -1,0 +1,5 @@
+name: OpChat
+version: 0.1
+main: ByNamles\OpChat\Base
+api: 4.0.0
+author: ByNamles
